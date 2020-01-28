@@ -34,7 +34,5 @@ def main():
         print("What if %s %s %s? %s" % (c1, v, c2, g))
 
 
-
-
 if __name__ == "__main__":
     main()
