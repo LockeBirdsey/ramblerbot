@@ -1,0 +1,4 @@
+tweepy
+uvicorn
+starlette
+pyyaml
