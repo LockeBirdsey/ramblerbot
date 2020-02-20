@@ -2,4 +2,8 @@ HOI4
 EU4
 CK2
 Imperator Rome
-Victoria 3
+Victoria 2
+Victoria
+Civ VI
+Civ V
+EU3
